@@ -1,0 +1,53 @@
+state_name_census,median_household_income,poverty_rate,unemployment_rate,state_fips
+Alabama,63999,15.6,4.7,01
+Alaska,92788,10.1,5.9,02
+Arizona,79964,12.5,5.1,04
+Arkansas,60773,16.0,4.9,05
+California,99122,12.0,6.6,06
+Colorado,95470,9.4,4.6,08
+Connecticut,95781,10.0,5.6,09
+Delaware,84954,10.4,5.1,10
+District of Columbia,109870,15.4,6.3,11
+Florida,74568,12.6,4.8,12
+Georgia,77353,13.4,5.1,13
+Hawaii,100389,10.0,4.9,15
+Idaho,77800,10.6,3.7,16
+Illinois,83390,11.8,5.8,17
+Indiana,71957,12.3,4.3,18
+Iowa,75059,11.1,3.6,19
+Kansas,74275,11.3,3.9,20
+Kentucky,63726,16.1,4.9,21
+Louisiana,60756,18.9,6.3,22
+Maine,74733,10.7,3.8,23
+Maryland,103678,9.4,4.9,24
+Massachusetts,103960,10.0,5.2,25
+Michigan,72875,13.2,5.7,26
+Minnesota,89062,9.3,4.1,27
+Mississippi,56447,18.9,5.8,28
+Missouri,70702,12.6,4.0,29
+Montana,72509,11.5,3.6,30
+Nebraska,76475,10.6,3.0,31
+Nevada,78260,12.4,7.0,32
+New Hampshire,99031,7.2,3.3,33
+New Jersey,103556,9.7,6.3,34
+New Mexico,64059,17.8,6.0,35
+New York,85974,14.0,6.4,36
+North Carolina,72388,13.0,4.7,37
+North Dakota,76657,10.8,2.8,38
+Ohio,71389,13.3,4.8,39
+Oklahoma,65039,15.3,5.0,40
+Oregon,83011,11.9,5.4,41
+Pennsylvania,77971,11.7,5.3,42
+Rhode Island,87796,11.2,5.8,44
+South Carolina,69324,14.1,4.9,45
+South Dakota,75081,11.9,2.9,46
+Tennessee,69595,13.8,4.7,47
+Texas,78476,13.8,5.3,48
+Utah,95166,8.5,3.6,49
+Vermont,81203,10.1,3.6,50
+Virginia,93170,9.9,4.3,51
+Washington,98141,9.9,5.1,53
+West Virginia,59608,16.7,5.4,54
+Wisconsin,77485,10.6,3.2,55
+Wyoming,76176,10.5,3.7,56
+Puerto Rico,26297,40.5,10.7,72
