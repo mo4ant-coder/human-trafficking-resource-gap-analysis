@@ -1,5 +1,9 @@
 # Human Trafficking Reporting & Resource Gap Analysis
 
+![Power BI Dashboard](images/human_trafficking_powerbi_dashboard.png)
+
+**Dashboard:** Power BI dashboard summarizing reported case rates, OVC-funded resource density, and potential resource-pressure signals across U.S. jurisdictions.
+
 ## About the Project
 
 I built this project to look at reported human trafficking activity across the U.S. and compare it with the distribution of federally funded anti-trafficking resources.
